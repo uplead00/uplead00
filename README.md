@@ -129,20 +129,5 @@ Este é um repositório privado. Para contribuir:
 Para dúvidas, issues ou sugestões, abra uma issue no repositório GitHub ou entre em contato com o time de desenvolvimento.
 
 
----
-
-## 👤 Autor
-
-**Riquehenri**  
-GitHub: [@Riquehenri](https://github.com/Riquehenri)
-GitHub: [@Eden-code01](https://github.com/Eden-code01)
-
----
-
-## 📅 Última Atualização
-
-Março 2026
-
----
 
 **Obrigado por usar o UP_LEAD!** 🎉
